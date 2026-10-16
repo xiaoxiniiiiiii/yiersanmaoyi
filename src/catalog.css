@@ -1,4 +1,6 @@
 .cart-thumb{height:67px;width:67px;flex:none;background-color:#eee9de;background-size:500% 500%;background-repeat:no-repeat}
+:root{--orange:#3d706b}
+.hero-copy .dark-btn,.category-strip .category-card:last-child .dark-btn{background:#3d706b}
 .product-image{background-color:#eee9de;background-size:500% 500%;background-repeat:no-repeat}
 
 /* Reference-inspired home hero: curtain on the left, vase and sofa accents on the right. */
