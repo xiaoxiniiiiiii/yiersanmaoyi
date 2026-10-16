@@ -1,3 +1,6 @@
 :root{--orange:#3d706b}
 .hero-copy .dark-btn{background:#3d706b!important}
 .hero-copy .dark-btn:after{color:#fff}
+.footer-bottom{font-size:14px!important;line-height:1.7!important}
+.footer-bottom span{font-size:14px!important}
+@media(max-width:800px){.footer-bottom span{font-size:13px!important;margin-top:12px}}
